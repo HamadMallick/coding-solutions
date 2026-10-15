@@ -40,7 +40,6 @@ else if (n == 9)
     printf("nine");
 else
     printf("Greater than 9");
-
     return 0;
 }
 
